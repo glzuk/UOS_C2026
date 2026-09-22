@@ -1,0 +1,8 @@
+# Course repository: keep source files, skip generated and IDE files.
+*
+!*/
+!.gitignore
+!.gitattributes
+!*.c
+!*.cpp
+!*.h
