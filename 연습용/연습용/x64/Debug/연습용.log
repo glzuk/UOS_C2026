@@ -1,5 +1,0 @@
-﻿  FAKE.cpp
-C:\Users\SEHUN\Desktop\github_C\UOS_C2026\연습용\연습용\FAKE.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-C:\Users\SEHUN\Desktop\github_C\UOS_C2026\연습용\연습용\FAKE.cpp(5,10): error C2001: 문자열 리터럴 내 줄 바꿈
-C:\Users\SEHUN\Desktop\github_C\UOS_C2026\연습용\연습용\FAKE.cpp(6,2): error C2143: 구문 오류: ')'이(가) '}' 앞에 없습니다.
-C:\Users\SEHUN\Desktop\github_C\UOS_C2026\연습용\연습용\FAKE.cpp(6,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
