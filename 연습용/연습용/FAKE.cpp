@@ -1,8 +1,14 @@
 #include <stdio.h>
-int main(void) {
-	int score = 90;
-	if (score > 80) {
-		printf("당신이 입력한 값은 a+입니다");
-	}
-	return 0;
+#include <stdlib.h>
+#include <time.h>
+int main(void){
+    int sum(int num[], int length) {
+        int result = 0;
+
+        for (int i = 0; i < length; i++) {
+            result += num[i];
+        }
+
+        return result;
+    }
 }
