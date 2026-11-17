@@ -9,8 +9,8 @@ int main(void) {
     }
     str[strcspn(str, "\n")] = '\0';
     for (char* p = str; *p != '\0'; p++) {
-        if (*p >= 'a' && *p <= 'z') {
-            *p -= 32;
+        if (*p >= 'A' && *p <= 'Z') {
+            *p += 32;
         }
         if (*p != ' ') {
             count++;
